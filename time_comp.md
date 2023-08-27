@@ -8,5 +8,5 @@ The following is a comparision of the best and the worst case complexities of va
 | Insertion Sort  | O(n)                      | O(n^2)                     |
 | Selection Sort  | O(n^2)                    | O(n^2)                     |
 | Merge Sort      | O(n log n)                | O(n log n)                 |
-| Quick Sort      | O(n log n)                | O(n^2) or O(n log n)*      |
+| Quick Sort      | O(n log n)                | O(n^2) or O(n log n)       |
 ---------------------------------------------------------------------------- 
