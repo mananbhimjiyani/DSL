@@ -1,5 +1,5 @@
 # DSCodes
-All the programs concepts covered in the Data Structures course in the 2nd year of CS.
+All the programs and concepts covered in the Data Structures course in the 2nd year of CS.
 
 Navigate through this repository:
 
